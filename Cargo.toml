@@ -1,0 +1,16 @@
+[package]
+name = "scrunch"
+version = "0.1.0"
+authors = ["Nathan Flurry <developer@nathanflurry.com>"]
+
+[dependencies]
+rocket= "0.3.3"
+rocket_codegen = "0.3.3"
+ws = "0.7.3"
+
+rand = "0.3.17"
+
+rmpv = "0.4.0"
+
+maplit = "1.0.0"
+lazy_static = "0.2.9"
