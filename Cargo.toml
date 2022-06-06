@@ -10,7 +10,7 @@ ws = "0.7.3"
 
 rand = "0.3.17"
 
-rmpv = "0.4.0"
+rmpv = "0.4.2"
 
 maplit = "1.0.0"
 lazy_static = "0.2.9"
